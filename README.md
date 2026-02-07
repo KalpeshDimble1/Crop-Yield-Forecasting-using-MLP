@@ -71,5 +71,4 @@ The high R² value indicates that the model explains over **94% of the variance*
 
 ---
 
-## Repository Structure
 
